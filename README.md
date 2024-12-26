@@ -1,4 +1,4 @@
-Solid reads mapping pipeline
+SOLiD reads mapping pipeline
 ================
 
 ## Intro
